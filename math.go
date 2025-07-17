@@ -22,4 +22,6 @@ func main() {
 
 	randNum := rand.Intn(50) + 1
 	print("Random:", randNum)
+	
+	print("Abs(-10) =", math.Abs(-10))
 }
